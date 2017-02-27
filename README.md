@@ -1,6 +1,7 @@
 # chat_program
 
 Author: Joshua Kluthe
+
 Files: chatserve.py, chatclient.c
 
 To compile:
