@@ -4,7 +4,7 @@ Author: Joshua Kluthe
 
 Files: chatserve.py, chatclient.c
 
-Written for CS 472 - Networking at Oregon State University
+Written for CS 372 - Networking at Oregon State University
 
 To compile:
 
